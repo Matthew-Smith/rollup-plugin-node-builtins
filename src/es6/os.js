@@ -111,4 +111,5 @@ export default {
   hostname: hostname,
   endianness: endianness,
   arch: arch,
+  platform: platform,
 }
